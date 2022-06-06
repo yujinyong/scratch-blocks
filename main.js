@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("// intentionally left empty\n\n\n//# sourceURL=webpack:///./shim/gh-pages.js?");
+eval("// intentionally left empty\r\n\n\n//# sourceURL=webpack:///./shim/gh-pages.js?");
 
 /***/ })
 
